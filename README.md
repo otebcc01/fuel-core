@@ -1,5 +1,6 @@
 # Fuel Client
 
+2025 
 [![build](https://github.com/FuelLabs/fuel-core/actions/workflows/ci.yml/badge.svg)](https://github.com/FuelLabs/fuel-core/actions/workflows/ci.yml)
 [![crates.io](https://img.shields.io/crates/v/fuel-core?label=latest)](https://crates.io/crates/fuel-core)
 [![docs](https://docs.rs/fuel-core/badge.svg)](https://docs.rs/fuel-core/)
